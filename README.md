@@ -1,6 +1,5 @@
 # Enhanced Network Sniffer  
 
-👋 Hi, I’m **@saad-838**  
 🔍 A Python-based tool for capturing and analyzing network packets.  
 
 ---
